@@ -34,6 +34,8 @@ Output :-
 Print maximum and minimum element in the list .
    
 Example 1:
+
+
 Input 
 
 
