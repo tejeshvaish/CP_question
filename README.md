@@ -35,19 +35,43 @@ Print maximum and minimum element in the list .
    
 Example 1:
 Input 
+
+
+
 6
+
+
+
 10 5 1 7 40 50
 
 Output
+
+
 50
+
+
+
 1
 
 
 Example 2:
+
+
 Input 
+
+
 4
+
+
+
 45 25 15 35 75
 
-Output 
+
+
+Output
+
+
 45
+
+
 15
